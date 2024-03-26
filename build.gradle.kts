@@ -17,7 +17,7 @@ dependencies {
 graalvmNative {
     binaries {
         named("main") {
-            mainClass.set("HelloWorld")
+            mainClass.set("io.github.daring2.sadbox.HelloWorld")
         }
     }
 }
